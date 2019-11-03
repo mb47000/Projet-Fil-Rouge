@@ -1,0 +1,15 @@
+a, i {
+    color: white;
+}
+td i, td a {
+    color: black;
+}
+h2 i{
+    color: black;
+}
+th i {
+    color: red;
+}
+h6 i{
+    color: green;
+}
